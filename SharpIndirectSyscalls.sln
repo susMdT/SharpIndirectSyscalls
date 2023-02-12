@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpIndirectSyscalls", "SharpIndirectSyscalls\SharpIndirectSyscalls.csproj", "{751F15A4-FC88-48D8-8FA4-64E8652CEFCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{751F15A4-FC88-48D8-8FA4-64E8652CEFCD}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{751F15A4-FC88-48D8-8FA4-64E8652CEFCD}.Debug|Any CPU.Build.0 = Debug|x64
+		{751F15A4-FC88-48D8-8FA4-64E8652CEFCD}.Debug|x64.ActiveCfg = Debug|x64
+		{751F15A4-FC88-48D8-8FA4-64E8652CEFCD}.Debug|x64.Build.0 = Debug|x64
+		{751F15A4-FC88-48D8-8FA4-64E8652CEFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751F15A4-FC88-48D8-8FA4-64E8652CEFCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{751F15A4-FC88-48D8-8FA4-64E8652CEFCD}.Release|x64.ActiveCfg = Release|x64
+		{751F15A4-FC88-48D8-8FA4-64E8652CEFCD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAD81132-44BC-46B7-9402-CB69CBC05E86}
+	EndGlobalSection
+EndGlobal
